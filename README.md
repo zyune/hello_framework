@@ -51,3 +51,13 @@ A typical Framework project looks like this:
 | `yarn deploy`     | Deploy your project to Observable                        |
 | `yarn clean`      | Clear the local data loader cache                        |
 | `yarn observable` | Run commands like `observable help`                      |
+
+
+
+# Land Use Analysis
+
+This repository contains data and visualizations for land use analysis.
+
+## Maine Land Use Map 2023
+
+![Maine Map](https://github.com/ds5500/land-use-zyune/blob/main/img/Maine_2023.png)
